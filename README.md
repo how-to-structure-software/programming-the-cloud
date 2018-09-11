@@ -1,3 +1,5 @@
 # Programming the Cloud
 
-[programming-the-cloud.pdf](programming-the-cloud.pdf)
+![slide1](images/slide1.png)
+
+[download as PDF](programming-the-cloud.pdf)
